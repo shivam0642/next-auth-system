@@ -1,6 +1,7 @@
 A secure, production-grade authentication system featuring JWT-based session management, email verification, and protected routing. This application demonstrates how to handle user identity safely from registration to logout.
 
 **Key Features**
+
 Secure Signup: Password hashing using bcryptjs before database storage.
 
 Email Verification: Integration with Nodemailer and Mailtrap to ensure users provide valid email addresses.
